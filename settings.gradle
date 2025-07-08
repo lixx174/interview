@@ -1,0 +1,4 @@
+rootProject.name = 'interview'
+include 'redis'
+include 'rocketmq'
+

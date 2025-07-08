@@ -1,0 +1,8 @@
+group = 'org.note'
+version = '1.0-SNAPSHOT'
+
+apply plugin: 'java-platform'
+
+subprojects {
+    apply plugin: 'java'
+}
