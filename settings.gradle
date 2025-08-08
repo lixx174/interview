@@ -1,4 +1,5 @@
 rootProject.name = 'interview'
 include 'redis'
 include 'rocketmq'
+include 'mysql'
 
